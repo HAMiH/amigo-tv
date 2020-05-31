@@ -1,185 +1,257 @@
 #EXTM3U
 
-
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Yahala Cinema
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1525|User-Agent=Beryan-Plus-aoo-3859372767
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1525|User-Agent=Beryan-Plus-6694090187
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Ya Hala HD
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1526|User-Agent=Beryan-Plus-aoo-3859372767
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1526|User-Agent=Beryan-Plus-6694090187
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Ya Hala Aloula
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1527|User-Agent=Beryan-Plus-aoo-3859372767
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1527|User-Agent=Beryan-Plus-6694090187
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Play 1
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1884|User-Agent=Beryan-Plus-aoo-3859372767
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1884|User-Agent=Beryan-Plus-6694090187
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Play 2
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1885|User-Agent=Beryan-Plus-aoo-3859372767
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1885|User-Agent=Beryan-Plus-6694090187
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Play 3
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1886|User-Agent=Beryan-Plus-aoo-3859372767
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1886|User-Agent=Beryan-Plus-6694090187
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Play 4
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1887|User-Agent=Beryan-Plus-aoo-3859372767
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1887|User-Agent=Beryan-Plus-6694090187
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Play 5
-
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Movies First HD
-http://one75.mine.nu:8000/gader/98769876/50
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Movies First +2 HD
-http://one75.mine.nu:8000/gader/98769876/51
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Movies HD
-http://one75.mine.nu:8000/gader/98769876/54
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Action HD
-http://one75.mine.nu:8000/gader/98769876/52
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Enigma HD
-http://one75.mine.nu:8000/gader/98769876/53
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Comedy HD
-http://one75.mine.nu:8000/gader/98769876/58
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Binge HD
-http://one75.mine.nu:8000/gader/98769876/55
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Kids HD
-http://one75.mine.nu:8000/gader/98769876/59
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Movies Disney HD
-http://one75.mine.nu:8000/gader/98769876/60
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Series First HD
-http://one75.mine.nu:8000/gader/98769876/61
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN BBC First HD
-http://one75.mine.nu:8000/gader/98769876/62
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Star Movies HD
-http://one75.mine.nu:8000/gader/98769876/64
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Star World HD
-http://one75.mine.nu:8000/gader/98769876/65
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Comedy Central HD
-http://one75.mine.nu:8000/gader/98769876/56
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Paramount HD
-http://one75.mine.nu:8000/gader/98769876/57
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Living HD
-http://one75.mine.nu:8000/gader/98769876/42
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN PopUp 
-http://one75.mine.nu:8000/gader/98769876/63
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN E! Entertainment HD
-http://one75.mine.nu:8000/gader/98769876/46
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Animal Planet HD
-http://one75.mine.nu:8000/gader/98769876/33
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Nat Geo HD
-http://one75.mine.nu:8000/gader/98769876/35
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Nat Geo Wild HD
-http://one75.mine.nu:8000/gader/98769876/34
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Nat Geo People HD
-http://one75.mine.nu:8000/gader/98769876/36
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Discovery HD
-http://one75.mine.nu:8000/gader/98769876/37
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Discovery Science HD
-http://one75.mine.nu:8000/gader/98769876/38
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Discovery ID HD
-http://one75.mine.nu:8000/gader/98769876/39
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Safwa
-http://one75.mine.nu:8000/gader/98769876/1551
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN History HD
-http://one75.mine.nu:8000/gader/98769876/41
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN H2 HD
-http://one75.mine.nu:8000/gader/98769876/375
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Disney HD
-http://one75.mine.nu:8000/gader/98769876/27
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Disney Junior HD
-http://one75.mine.nu:8000/gader/98769876/28
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Disney XD HD
-http://one75.mine.nu:8000/gader/98769876/1202
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Nick Jr HD
-http://one75.mine.nu:8000/gader/98769876/29
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Kid Zone TV HD
-http://one75.mine.nu:8000/gader/98769876/30
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Baby TV HD
-http://one75.mine.nu:8000/gader/98769876/31
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Nickelodeon HD
-http://one75.mine.nu:8000/gader/98769876/394
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN MTV Live HD
-http://one75.mine.nu:8000/gader/98769876/1084
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Fashion TV HD
-http://one75.mine.nu:8000/gader/98769876/1204
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN VH1
-http://one75.mine.nu:8000/gader/98769876/86
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN NEWS
-http://one75.mine.nu:8000/gader/98769876/87
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Sky News HD
-http://one75.mine.nu:8000/gader/98769876/1374
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Fox News Channel
-http://one75.mine.nu:8000/gader/98769876/1488
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Ya Hala HD
-http://one75.mine.nu:8000/gader/98769876/47
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Ya Hala Al Oula HD
-http://one75.mine.nu:8000/gader/98769876/48
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Yahala Cinema HD
-http://one75.mine.nu:8000/gader/98769876/49
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Series Channel
-http://one75.mine.nu:8000/gader/98769876/88
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Series +2
-http://one75.mine.nu:8000/gader/98769876/26
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Cinema 1
-http://one75.mine.nu:8000/gader/98769876/90
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Cinema 2
-http://one75.mine.nu:8000/gader/98769876/91
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Al Yawm
-http://one75.mine.nu:8000/gader/98769876/89
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Fann
-http://one75.mine.nu:8000/gader/98769876/92
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Music Now
-http://one75.mine.nu:8000/gader/98769876/93
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Aflam 1
-http://one75.mine.nu:8000/gader/98769876/95
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Aflam 2
-http://one75.mine.nu:8000/gader/98769876/96
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Cinema
-http://one75.mine.nu:8000/gader/98769876/94
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Hekayat 1
-http://one75.mine.nu:8000/gader/98769876/97
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Hekayat 2
-http://one75.mine.nu:8000/gader/98769876/98
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN V TV HD
-http://one75.mine.nu:8000/gader/98769876/1370
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN CI HD
-http://one75.mine.nu:8000/gader/98769876/1582
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN TLC HD
-http://one75.mine.nu:8000/gader/98769876/1569
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN On Demand
-http://one75.mine.nu:8000/gader/98769876/1583
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Mezze
-http://one75.mine.nu:8000/gader/98769876/1584
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Pop Up 2
-http://one75.mine.nu:8000/gader/98769876/1389
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Hekayat HD
-http://one75.mine.nu:8000/gader/98769876/588
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-HOME-CINEMA1
-http://universeiptv.com:8000/mycast/mycast2019/1565
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-HOME-CINEMA2
-http://universeiptv.com:8000/mycast/mycast2019/1566
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-HOME-CINEMA3
-http://universeiptv.com:8000/mycast/mycast2019/1581
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-HOME-CINEMA4
-http://universeiptv.com:8000/mycast/mycast2019/1582
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-HOME-CINEMA5
-http://universeiptv.com:8000/mycast/mycast2019/1583
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-HOME-CINEMA6
-http://universeiptv.com:8000/mycast/mycast2019/1584
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-HOME-CINEMA7
-http://universeiptv.com:8000/mycast/mycast2019/1585
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-HOME-CINEMA8
-http://universeiptv.com:8000/mycast/mycast2019/1586
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-HOME-CINEMA9
-http://universeiptv.com:8000/mycast/mycast2019/1587
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-HOME-CINEMA10
-http://universeiptv.com:8000/mycast/mycast2019/1588
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-PLAY-CINEMA1
-http://universeiptv.com:8000/mycast/mycast2019/1759
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-PLAY-CINEMA2
-http://universeiptv.com:8000/mycast/mycast2019/1762
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-PLAY-CINEMA3
-http://universeiptv.com:8000/mycast/mycast2019/1764
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-PLAY-CINEMA4
-http://universeiptv.com:8000/mycast/mycast2019/1765
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-PLAY-CINEMA5
-http://universeiptv.com:8000/mycast/mycast2019/1766
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-PLAY-CINEMA6
-http://universeiptv.com:8000/mycast/mycast2019/1767
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-PLAY-CINEMA7
-http://universeiptv.com:8000/mycast/mycast2019/1768
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-PLAY-CINEMA8
-http://universeiptv.com:8000/mycast/mycast2019/1769
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-PLAY-CINEMA9
-http://universeiptv.com:8000/mycast/mycast2019/1770
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN-PLAY-CINEMA10
-http://universeiptv.com:8000/mycast/mycast2019/1771
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Al Yawm HD
+http://falconiptv.com:80/jasmin25/jasmin25/35188
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Animal Planet HD
+http://falconiptv.com:80/jasmin25/jasmin25/35186
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Animal Planet HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63356
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN ART Aflam 1
+http://falconiptv.com:80/jasmin25/jasmin25/35185
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN ART Aflam 2
+http://falconiptv.com:80/jasmin25/jasmin25/35184
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN ART Cinema
+http://falconiptv.com:80/jasmin25/jasmin25/35183
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN ART Hekayat 1
+http://falconiptv.com:80/jasmin25/jasmin25/35182
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN ART Hekayat 2
+http://falconiptv.com:80/jasmin25/jasmin25/35181
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Comedy Central HD
+http://falconiptv.com:80/jasmin25/jasmin25/94310
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Discovery HD
+http://falconiptv.com:80/jasmin25/jasmin25/56833
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Discovery HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63355
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Discovery ID (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63354
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Discovery ID HD
+http://falconiptv.com:80/jasmin25/jasmin25/35169
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Discovery SCI HD
+http://falconiptv.com:80/jasmin25/jasmin25/35170
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Discovery SCI HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63353
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Disney Channel HD
+http://falconiptv.com:80/jasmin25/jasmin25/63295
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Disney Channel HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/35166
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Disney Junior HD AR
+http://falconiptv.com:80/jasmin25/jasmin25/35165
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Disney Junior HD EN
+http://falconiptv.com:80/jasmin25/jasmin25/117308
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Disney Junior HD (Backup) AR
+http://falconiptv.com:80/jasmin25/jasmin25/63294
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Disney XD HD
+http://falconiptv.com:80/jasmin25/jasmin25/74780
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN E! Entertainment HD
+http://falconiptv.com:80/jasmin25/jasmin25/56155
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN E! Entertainment HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63326
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Fann FD
+http://falconiptv.com:80/jasmin25/jasmin25/94309
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN FOX LIFE HD
+http://falconiptv.com:80/jasmin25/jasmin25/56095
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN FOX REWAYAT HD
+http://falconiptv.com:80/jasmin25/jasmin25/56096
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN FX HD
+http://falconiptv.com:80/jasmin25/jasmin25/35151
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN HISTORY (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63348
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN History HD
+http://falconiptv.com:80/jasmin25/jasmin25/35149
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Mezze HD
+http://falconiptv.com:80/jasmin25/jasmin25/127614
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN ON DEMAND 1 HD
+http://falconiptv.com:80/jasmin25/jasmin25/109117
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN ON DEMAND 2 HD
+http://falconiptv.com:80/jasmin25/jasmin25/109119
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ON DEMAND 3 HD
+http://falconiptv.com:80/jasmin25/jasmin25/109121
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ON DEMAND EXTRA 1 HD
+http://falconiptv.com:80/jasmin25/jasmin25/109122
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ON DEMAND EXTRA 2 HD
+http://falconiptv.com:80/jasmin25/jasmin25/109124
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN ON DEMAND EXTRA 3 HD
+http://falconiptv.com:80/jasmin25/jasmin25/109125
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN BOX OFFICE 01
+http://falconiptv.com:80/jasmin25/jasmin25/123679
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN BOX OFFICE 02
+http://falconiptv.com:80/jasmin25/jasmin25/123680
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN BOX OFFICE 02
+http://falconiptv.com:80/jasmin25/jasmin25/123681
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Home Cinema Arabic 1
+http://falconiptv.com:80/jasmin25/jasmin25/57108
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Home Cinema Arabic 2
+http://falconiptv.com:80/jasmin25/jasmin25/57107
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Home Cinema Arabic 3
+http://falconiptv.com:80/jasmin25/jasmin25/57106
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Home Cinema Arabic 4
+http://falconiptv.com:80/jasmin25/jasmin25/57105
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Home Cinema English 1
+http://falconiptv.com:80/jasmin25/jasmin25/57103
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Home Cinema English 2
+http://falconiptv.com:80/jasmin25/jasmin25/57102
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Home Cinema English 3
+http://falconiptv.com:80/jasmin25/jasmin25/57100
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Home Cinema English 4
+http://falconiptv.com:80/jasmin25/jasmin25/57099
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Home Cinema Kids 1
+http://falconiptv.com:80/jasmin25/jasmin25/57097
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN ITV Choice HD
+http://falconiptv.com:80/jasmin25/jasmin25/35138
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN ITV Choice HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63337
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Kids Zone HD
+http://falconiptv.com:80/jasmin25/jasmin25/35110
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN seevii prime 2
+http://falconiptv.com:80/jasmin25/jasmin25/114478
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN seevii prime 1
+http://falconiptv.com:80/jasmin25/jasmin25/114477
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN MBC Drama Plus FHD
+http://falconiptv.com:80/jasmin25/jasmin25/35136
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN MBC Drama Plus HD
+http://falconiptv.com:80/jasmin25/jasmin25/63325
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN MBC Variety HD
+http://falconiptv.com:80/jasmin25/jasmin25/56098
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies Action HD
+http://falconiptv.com:80/jasmin25/jasmin25/35133
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies Action HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63347
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies Binge HD
+http://falconiptv.com:80/jasmin25/jasmin25/76347
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies Disney HD
+http://falconiptv.com:80/jasmin25/jasmin25/35134
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies Disney HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63346
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies Enigma HD
+http://falconiptv.com:80/jasmin25/jasmin25/35123
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies Enigma HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63308
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies First +2 HD
+http://falconiptv.com:80/jasmin25/jasmin25/35135
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies First +2 HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63309
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies First HD
+http://falconiptv.com:80/jasmin25/jasmin25/35128
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies First HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63310
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies HD
+http://falconiptv.com:80/jasmin25/jasmin25/63777
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63343
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies Kids HD
+http://falconiptv.com:80/jasmin25/jasmin25/74777
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Musalsalat 2 HD
+http://falconiptv.com:80/jasmin25/jasmin25/63322
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Music Now
+http://falconiptv.com:80/jasmin25/jasmin25/35121
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Muslslat HD
+http://falconiptv.com:80/jasmin25/jasmin25/56097
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Nat Geo Abu Dhabi  HD
+http://falconiptv.com:80/jasmin25/jasmin25/65989
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Nat Geo Abu Dhabi (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/65990
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Nat Geo People (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63350
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Nat Geo People HD
+http://falconiptv.com:80/jasmin25/jasmin25/35190
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Nat Geo Wild (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63351
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Nat Geo Wild HD
+http://falconiptv.com:80/jasmin25/jasmin25/35116
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Nat Geographic (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63352
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Nat Geographic HD
+http://falconiptv.com:80/jasmin25/jasmin25/35118
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Nickelodeon HD
+http://falconiptv.com:80/jasmin25/jasmin25/35177
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Orbit Cinema  1
+http://falconiptv.com:80/jasmin25/jasmin25/35176
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Orbit Cinema 1 (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63333
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Orbit Cinema 2
+http://falconiptv.com:80/jasmin25/jasmin25/35175
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Orbit Cinema 2 (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63332
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Outdoor HD
+http://falconiptv.com:80/jasmin25/jasmin25/35109
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Paramount HD
+http://falconiptv.com:80/jasmin25/jasmin25/78039
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Series Comedy HD
+http://falconiptv.com:80/jasmin25/jasmin25/63772
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Series Comedy HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63330
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Series First HD
+http://falconiptv.com:80/jasmin25/jasmin25/63771
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Series First HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63770
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Series Living HD
+http://falconiptv.com:80/jasmin25/jasmin25/63776
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Series Living HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/35104
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Sports Cricket HD
+http://falconiptv.com:80/jasmin25/jasmin25/56091
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Star Movies HD
+http://falconiptv.com:80/jasmin25/jasmin25/57109
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Star Movies HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63360
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Star World HD
+http://falconiptv.com:80/jasmin25/jasmin25/35099
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Star World HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63359
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Syfy HD
+http://falconiptv.com:80/jasmin25/jasmin25/35097
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Syfy HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63331
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN TLC (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63318
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN TLC HD
+http://falconiptv.com:80/jasmin25/jasmin25/35095
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Ya hala Aloula HD
+http://falconiptv.com:80/jasmin25/jasmin25/35192
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Ya hala Aloula HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63315
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Ya Hala Cinma HD
+http://falconiptv.com:80/jasmin25/jasmin25/63778
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Ya Hala Cinma HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63324
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Ya Hala HD
+http://falconiptv.com:80/jasmin25/jasmin25/35193
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Ya Hala HD (Backup)
+http://falconiptv.com:80/jasmin25/jasmin25/63317
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Thriller Movies
+http://falconiptv.com:80/jasmin25/jasmin25/109126
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies Thriller +2h
+http://falconiptv.com:80/jasmin25/jasmin25/117849
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN The Movies
+http://falconiptv.com:80/jasmin25/jasmin25/109127
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN The Movies 2
+http://falconiptv.com:80/jasmin25/jasmin25/109129
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Star Gold HD
+http://falconiptv.com:80/jasmin25/jasmin25/109131
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Famely Movies
+http://falconiptv.com:80/jasmin25/jasmin25/109135
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies +2h
+http://falconiptv.com:80/jasmin25/jasmin25/109136
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",Osn Movies Action +2 HD
+http://falconiptv.com:80/jasmin25/jasmin25/109137
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Movies Premiere +2
+http://falconiptv.com:80/jasmin25/jasmin25/109138
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN NICK JR
+http://falconiptv.com:80/jasmin25/jasmin25/109139
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="",OSN Investigation Discovery
+http://falconiptv.com:80/jasmin25/jasmin25/109140
