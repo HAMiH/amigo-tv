@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://dl.dropbox.com/s/irqfho2qt07uvy5/PicsArt_08-04-08.27.51.png" group-title="", BEIN SPORT -1
+http://138.201.185.44:80/upload/images/logoA01.m3u8|Referer=http://qanat.tv/?A01
+
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://dl.dropbox.com/s/irqfho2qt07uvy5/PicsArt_08-04-08.27.51.png" group-title="", BEIN SPORT -2
+http://138.201.185.44:80/upload/images/logoA02.m3u8|Referer=http://qanat.tv/?A02
+
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://dl.dropbox.com/s/irqfho2qt07uvy5/PicsArt_08-04-08.27.51.png" group-title="", BEIN SPORT -3
+http://138.201.185.44:80/upload/images/logoA03.m3u8|Referer=http://qanat.tv/?A03
+
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://dl.dropbox.com/s/irqfho2qt07uvy5/PicsArt_08-04-08.27.51.png" group-title="", BEIN SPORT -4
+http://138.201.185.44:80/upload/images/logoA04.m3u8|Referer=http://qanat.tv/?A04
+
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://dl.dropbox.com/s/irqfho2qt07uvy5/PicsArt_08-04-08.27.51.png" group-title="", BEIN SPORT -5
+http://138.201.185.44:80/upload/images/logoA05.m3u8|Referer=http://qanat.tv/?A05
+
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://dl.dropbox.com/s/irqfho2qt07uvy5/PicsArt_08-04-08.27.51.png" group-title="", BEIN SPORT -6
+http://138.201.185.44:80/upload/images/logoA06.m3u8|Referer=http://qanat.tv/?A06
